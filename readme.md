@@ -23,7 +23,7 @@ Workflow:
 
 [`csse_covid_19_data`](https://github.com/victorlifan/COVID_19-data-analyze-and-prediction/tree/master/csse_covid_19_data)
 
- Data set is operated by the Johns Hopkins University Center for Systems Science and Engineering ([`JHU CSSE`](https://github.com/CSSEGISandData/COVID-19)). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL). I extracted 2900 records cover information for two countries, 1682 records in China and 1218 records in the U.S.. Information is recorded from 2020 Jan 22nd until 2020 Mar 15th.
+ Data set is operated by the Johns Hopkins University Center for Systems Science and Engineering ([`JHU CSSE`](https://github.com/CSSEGISandData/COVID-19)). Also, Supported by ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL). I extracted 2989 records cover information for two countries, 1715 records in China and 1274 records in the U.S.. Information is recorded from 2020 Jan 22nd until 2020 Mar 16th.
 
  ## Summary of Findings
 
@@ -39,8 +39,8 @@ Workflow:
 
  ## Key Insights for Presentation
 
- > Infected numbers prediction (30 days frame)
- + Max confirmed cases within 30 days would likely be around 13,716, which will happen around second week in April.
+ > Infected numbers prediction (15 days frame)
+ + Max confirmed cases would likely be around 37,774, and 15 days from Mar 16th which is Mar 31st, confirmed cases might reach over 30,000.
 
  ## About
 ###### Cleaned data :
